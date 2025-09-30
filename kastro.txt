@@ -1,3 +1,5 @@
 This is Kastro's Text File
 
 This data is written in local repo
+
+This line is added directly in the remote repo
